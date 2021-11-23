@@ -1,0 +1,67 @@
+﻿<Window x:Class="XAML_NDA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XAML_NDA"
+        mc:Ignorable="d"
+        Title="Admin Login" Height="408" Width="620" MinWidth="400" MinHeight="360" FontFamily="Microsoft Sans Serif" VerticalAlignment="Center" HorizontalAlignment="Center" WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top">
+            <DockPanel Margin="0,5,0,3">
+                <Image x:Name="LgImg" Margin="5,0,0,0" DockPanel.Dock="Left" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="19" Source="Resources/lg.jpg" />
+                <Label x:Name="LName" Content="NBA Manegement System" DockPanel.Dock="Left" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="12" Foreground="#FF7E7E7E" Margin="0,0,0,2"/>
+                <Button x:Name="BtnBack"  Margin="0,0,5,0" Content="Back" DockPanel.Dock="Right" VerticalAlignment="Center" Width="55" FontSize="10" Height="25" Foreground="Black" IsEnabled="False">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Label x:Name="LabTitle" Content="Admin Login" DockPanel.Dock="Right" VerticalAlignment="Bottom" FontFamily="Calibri" FontSize="16" Foreground="#FF47494E"  Margin="0,0,70,2" Width="92" />
+
+            </DockPanel>
+            <Border BorderBrush="#FF6995C2" BorderThickness="0.5"></Border>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Top">
+            <DockPanel Margin="0,50,0,0">
+                <Label x:Name="LabNoteLogin" DockPanel.Dock="Top" Content="Users can login into system using their jobnumber and password." HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="12" Foreground="#FF7E7E7E"/>
+                <DockPanel HorizontalAlignment="Center" Margin="0,30,0,0" >
+                    <Label x:Name="LabJobnumber" DockPanel.Dock="Left" Content="Jobnumber:" VerticalAlignment="Top" FontSize="10"/>
+                    <TextBox x:Name="TxtForJobnumber"  DockPanel.Dock="Left" Height="20" VerticalAlignment="Top" Width="180" FontSize="10" BorderBrush="#FF7E7E7E" Margin="5,0,0,0"/>
+                </DockPanel>
+            </DockPanel>
+            <DockPanel HorizontalAlignment="Center" Margin="5,15,0,0" >
+                <Label x:Name="LabPassword" DockPanel.Dock="Left" Content="Password:" VerticalAlignment="Top" FontSize="10"/>
+                <TextBox x:Name="TxtForPassword"  DockPanel.Dock="Left" Height="20" VerticalAlignment="Top" Width="180" FontSize="10" BorderBrush="#FF7E7E7E" Margin="5,0,0,0"/>
+            </DockPanel>
+            <DockPanel Margin="0,25,40,0">
+                <CheckBox x:Name="CheckRemember" DockPanel.Dock="Bottom" Content="Remember me" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontFamily="Microsoft Sans Serif" FontSize="16">
+                    <CheckBox.LayoutTransform>
+                        <ScaleTransform ScaleX="0.6" ScaleY="0.63" />
+                    </CheckBox.LayoutTransform>
+                </CheckBox>
+            </DockPanel>
+            <DockPanel HorizontalAlignment="Center" Margin="70,20,0,0">
+                <Button x:Name="BtnLogin" DockPanel.Dock="Left" Margin="0,0,5,0" Content="Login" VerticalAlignment="Center" Width="69" FontSize="12" Height="31" Foreground="Black" Background="#FFF7F7F7">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button x:Name="BtnCancel" DockPanel.Dock="Left" Margin="40,0,10,0" Content="Cancel" VerticalAlignment="Center" Width="69" FontSize="12" Height="31" Foreground="Black" Background="#FFF7F7F7">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </DockPanel>
+        </StackPanel>
+        <DockPanel DockPanel.Dock="Bottom">
+            <Label x:Name="LabFooter" Content="The current season is 2016-2017, and the NBA already has a history of 71 years."  FontFamily="Microsoft Sans Serif" FontSize="10" Background="#FF6995C2" MaxHeight="20" Foreground="White" HorizontalContentAlignment="Center" VerticalAlignment="Bottom"  />
+        </DockPanel>
+    </DockPanel>
+</Window>

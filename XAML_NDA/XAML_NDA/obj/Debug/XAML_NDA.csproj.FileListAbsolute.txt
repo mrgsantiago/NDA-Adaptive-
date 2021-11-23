@@ -1,0 +1,14 @@
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\MainWindow.g.cs
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\App.g.cs
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA_MarkupCompile.cache
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA_MarkupCompile.lref
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\bin\Debug\XAML_NDA.exe.config
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\bin\Debug\XAML_NDA.exe
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\bin\Debug\XAML_NDA.pdb
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\MainWindow.baml
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.g.resources
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.Properties.Resources.resources
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.csproj.GenerateResource.cache
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.csproj.CoreCompileInputs.cache
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.exe
+C:\Users\Марго\source\repos\XAML_NDA\XAML_NDA\obj\Debug\XAML_NDA.pdb

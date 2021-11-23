@@ -1,0 +1,45 @@
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\bin\Debug\NDA.exe.config
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\bin\Debug\NDA.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\bin\Debug\NDA.pdb
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.csproj.AssemblyReference.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\MainWindow.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\App.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA_MarkupCompile.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA_MarkupCompile.lref
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\MainWindow.baml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.g.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.Properties.Resources.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.csproj.GenerateResource.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.csproj.CoreCompileInputs.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\NDA\NDA\obj\Debug\NDA.pdb
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\bin\Debug\NDA.exe.config
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\bin\Debug\NDA.exe
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\bin\Debug\NDA.pdb
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.AssemblyReference.cache
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\MainWindow.g.cs
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\App.g.cs
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA_MarkupCompile.cache
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA_MarkupCompile.lref
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\MainWindow.baml
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.g.resources
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.Properties.Resources.resources
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.GenerateResource.cache
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.CoreCompileInputs.cache
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.exe
+C:\Users\Марго\Downloads\Telegram Desktop\NDA\NDA\NDA\obj\Debug\NDA.pdb
+C:\Users\Марго\Desktop\NDA\NDA\NDA\bin\Debug\NDA.exe.config
+C:\Users\Марго\Desktop\NDA\NDA\NDA\bin\Debug\NDA.exe
+C:\Users\Марго\Desktop\NDA\NDA\NDA\bin\Debug\NDA.pdb
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.AssemblyReference.cache
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\MainWindow.g.cs
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\App.g.cs
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA_MarkupCompile.cache
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA_MarkupCompile.lref
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\MainWindow.baml
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.g.resources
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.Properties.Resources.resources
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.GenerateResource.cache
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.csproj.CoreCompileInputs.cache
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.exe
+C:\Users\Марго\Desktop\NDA\NDA\NDA\obj\Debug\NDA.pdb
